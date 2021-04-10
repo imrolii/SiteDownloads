@@ -1,0 +1,84 @@
+<html>
+<head>
+<style>
+a {color: white; font-family: Calibri;}
+p {color: white; font-family: Calibri;}
+h1 {color: white; font-family: Calibri:}
+
+body {
+
+}
+
+.navbar {
+text-align: left;
+font-family: Calibri;
+}
+
+.main {
+text-align: left;
+color: white; font-family: Calibri; font-size: 20px;
+}
+
+wrap {
+  position: relative;
+}
+
+.wrap:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.6;
+  background-image: url('https://raw.githubusercontent.com/imrolii/SiteDownloads/main/html-assets/background.jpeg');
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-size: cover;
+}
+
+.content {
+  position: relative;
+}
+
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <div class="content">
+	<div class="main">
+		<div class="navbar">
+			<img src="https://raw.githubusercontent.com/imrolii/SiteDownloads/main/html-assets/icon-small.jpg" align=center>	
+			<button onclick="OpenYoutube()">My Channel</button>	
+			<button onclick="DownloadsMsg()">Downloads</button>
+			<button onclick="StandardSite()">Standard Page</button>	
+			<center>
+			<h1>Downloads</h1>
+			<p>This is a selection of downloads. The same links are used on my main website, https://www.imrolii.tk.</p>
+			<button onclick="OSPage()">Operating Systems</button>
+		</div>
+		<h1>
+	</div>
+  </div>
+</div>
+
+<title>imrolii's Website (HTML)</title>
+
+
+
+
+</body>
+
+<script>
+function OpenYoutube() {
+window.location.href = "https://totallypikachu.tk/youtube/";
+}
+function DownloadsMsg() {
+window.location.href("http://imrolii-html.tk/downloads.html");
+}
+function StandardSite() {
+window.location.href = "https://www.imrolii.tk/";
+}
+</script>
