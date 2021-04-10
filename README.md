@@ -6,6 +6,7 @@ A bunch of random downloads which are used in either my website or youtube proje
 
 [Screenshot - Vista Destruction.png](https://raw.githubusercontent.com/imrolii/SiteDownloads/main/Screenshot%20-%20Vista%20Destruction.png): screenshot of editing for my 'Windows Vista Destruction' video.
 
+[html-assets](/html-assets/): A directory containing assets for my HTML version of my site (Work in progress!).
 # Other
 My website is https://www.imrolii.tk/ if you wish to visit it.
 
