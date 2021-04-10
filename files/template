@@ -4,7 +4,7 @@
 a {color: white; font-family: Calibri;}
 p {color: white; font-family: Calibri;}
 h1 {color: white; font-family: Calibri:}
-<!--Add any other HTML elements if you desire to use them. For example, to use the h2 element, copy one of the above lines and replace 'a/p/h1' with 'h2'
+<!--Add any other HTML elements if you desire to use them. For example, to use the h2 element, copy one of the above lines and replace 'a/p/h1' with 'h2'>
 
 body {
 
