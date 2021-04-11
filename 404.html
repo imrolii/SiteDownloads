@@ -16,11 +16,11 @@
 			<button onclick="OpenDownloads()">Downloads</button>
 			<button onclick="StandardSite()">Standard Page</button>	
 			<center>
-        <h1>404 Not Found</h1>
-        <p>Sorry about that, the link you entered or clicked on is invalid.</p>
-        <a href="http://imrolii-html.tk">Go to home page</a>
-		</div>
-		<h1>
+        			<h1>404 Not Found</h1>
+        			<p>Sorry about that, the link you entered or clicked on is invalid.</p>
+        			<a href="http://imrolii-html.tk">Go to home page</a>
+				<a onclick="GoBack()"><u>Go to previous page</u></a>
+		</div>		
 	</div>
   </div>
 </div>
@@ -33,3 +33,7 @@
 </body>
 
 <script src="/navbar.js"></script>
+<script>
+function GoBack() {
+window.history.back();
+}
