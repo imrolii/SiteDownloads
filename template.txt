@@ -34,4 +34,4 @@
 
 <script>
 // Add any JavaScript here
-<script>
+</script>
