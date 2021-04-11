@@ -33,5 +33,5 @@
 <script src="/navbar.js"></script>
 
 <script>
-<!--Add any JavaScript here-->
+// Add any JavaScript here
 <!script>
