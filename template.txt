@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="style.css"> <!--If you wish to use another element, such as h2, add it in the style.css file.-->
+<link rel="stylesheet" href="/style.css"> <!--If you wish to use another element, such as h2, add it in the style.css file.-->
 <link rel="icon" type="image/jpg" href="/files/icon-small.jpg"/>
 </head>
 <body>
