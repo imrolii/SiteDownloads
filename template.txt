@@ -14,9 +14,11 @@
 			</a>	
 			<button onclick="OpenYoutube()">My Channel</button>	
 			<button onclick="OpenDownloads()">Downloads</button>
-			<button onclick="StandardSite()">Standard Page</button>				
+			<button onclick="StandardSite()">Standard Page</button>	
+			<center>
 			<!--Enter Desired HTML Here-->
 			<p>This is a template of this site. To use this, copy the HTML and modify this text to your desired HTML.</p>
+			</center>
 		</div>		
 	</div>
   </div>
