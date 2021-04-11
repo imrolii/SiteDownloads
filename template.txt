@@ -30,16 +30,8 @@
 
 </body>
 
-<script>
-function OpenYoutube() {
-window.location.href = "https://totallypikachu.tk/youtube/";
-}
-function DownloadsMsg() {
-window.location.href("http://imrolii-html.tk/downloads.html");
-}
-function StandardSite() {
-window.location.href = "https://www.imrolii.tk/";
-}
+<script src="/navbar.js"></script>
 
-<!--Add desired JavaScript here-->
-</script>
+<script>
+<!--Add any JavaScript here-->
+<!script>
